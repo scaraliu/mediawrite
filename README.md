@@ -1,2 +1,2 @@
 # mediawrite
-content development agency
+content dev. agency
